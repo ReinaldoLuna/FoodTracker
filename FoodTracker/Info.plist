@@ -23,7 +23,7 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Allows you to add photos to your meals.</string>
 	<key>UILaunchStoryboardName</key>
-	<string>LaunchScreen</string>
+	<string>Main</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
